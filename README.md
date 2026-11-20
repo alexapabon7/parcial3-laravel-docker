@@ -3,7 +3,7 @@
 Parcial 3: API REST en Laravel para registrar estudiantes. La aplicación y la base
 de datos MySQL corren en contenedores separados y se levantan con un solo comando.
 
-**Autor:** Junior Gerardo Urbina Ramírez
+**Autor:** Yuliana Alexandra Pabon Ortiz
 
 ## Requisitos
 - Docker Desktop (o Docker Engine + Docker Compose)
